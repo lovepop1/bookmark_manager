@@ -20,6 +20,7 @@ This is a lightweight, client-side bookmark management app with an intuitive UI.
   - Oldest First
   - Title A-Z
   - Title Z-A
+- ✅ URL Validation
 - 🎨 Clean and consistent UI using ShadCN and TailwindCSS
 
 ---
