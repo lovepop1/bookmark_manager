@@ -31,10 +31,12 @@ This is a lightweight, client-side bookmark management app with an intuitive UI.
    git clone https://github.com/lovepop1/bookmark_manager.git
 2. **Go to working repository**
 3. **Install Dependencies**
+
    npm install --legacy-peer-deps
    or
    yarn install
 4. **Run the development server**
+
    npm run dev
    or
    yarn dev
