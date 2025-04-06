@@ -7,6 +7,10 @@ A simple and beautiful bookmark manager built with **Next.js**, **TypeScript**, 
 This is a lightweight, client-side bookmark management app with an intuitive UI. It's a fully functional CRUD app with search and sort capabilities. The app is modular, easy to extend, and can be hooked up to a backend like Supabase if needed.
 
 ---
+## Try it out
+
+https://bookmark-manager-orpin.vercel.app/
+
 
 ## 🚀 Features
 
